@@ -1,6 +1,6 @@
-# Nimble Fullstack Challenge (Pet Store)
+# Pet Store Challenge
 
-This is a small, local pet store app built for the Nimble exercise. I kept it intentionally simple but production‑ready in structure: GraphQL API in Go, React (TypeScript) UI for customers, Postgres via Docker. Everything runs locally and doesn’t depend on external services.
+This is a small, local pet store app built for the exercise. I kept it intentionally simple but production‑ready in structure: GraphQL API in Go, React (TypeScript) UI for customers, Postgres via Docker. Everything runs locally and doesn’t depend on external services.
 
 ## Quick start (Docker)
 
